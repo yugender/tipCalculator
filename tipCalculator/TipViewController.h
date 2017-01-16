@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  TipViewController.h
 //  tipCalculator
 //
 //  Created by  Yugender Boini on 1/14/17.
@@ -8,7 +8,7 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
+@interface TipViewController : UIViewController
 
 
 @end
